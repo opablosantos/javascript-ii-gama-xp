@@ -1,4 +1,4 @@
-//pegar o input 
+//pegar o input
 //Se for Sim, mostra as categorias disponiveis, pergunta qual categoria ela escolhe
 //Se não, mostra todos os livros em ordem crescente pela quantidade de páginas
 
